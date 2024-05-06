@@ -33,5 +33,4 @@
 
 <div class="flex my-5 flex-col">
     <h1 class="text-gray-100 text-center font-bold">Ⓒ 2023 {{ strtoupper(env("APP_NAME")) }}. ALL RIGHTS RESERVED</h1>
-    <h2 class="text-gray-100 text-center mt-3">Made with ❤ by <span class="font-bold"><a href="https://github.com/DSDimitrov19" target="_blank">Dimitar</a></span></h2>
 </div>

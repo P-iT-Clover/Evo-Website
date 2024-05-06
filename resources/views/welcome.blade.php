@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg+xml" href="../logo.png" />
 
     <title>{{env("APP_NAME")}}</title>
 
@@ -12,10 +13,10 @@
 <body style="background-color: #111">
     <div class="flex flex-col justify-center items-center w-screen h-screen">
         <div>
-            <img src="https://imgur.com/z42Jtdx.png" alt="logo" style="width: 20rem;"/>
+            <img src="https://lobfile.com/file/s0A5m6zQ.png" alt="logo" style="width: 20rem;"/>
         </div>
         <div>
-            <h1 class="text-gray-100 font-bold text-2xl text-center mt-3">WELCOME TO {{ strtoupper(env("APP_NAME")) }}</h1>
+            <h1 class="text-gray-100 font-bold text-2xl text-center mt-3">WELCOME TO {{ strtoupper(env("APP_NAME")) }} WEBSITE</h1>
         </div>
 
         <div class="mt-4">

@@ -1,8 +1,8 @@
 <nav class="border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-transparent">
     <div class="container flex flex-wrap flex-row justify-between items-center mx-auto">
         <a href="{{ route('index') }}" class="flex gap-2">
-            <img width="69" src="https://imgur.com/z42Jtdx.png">
-            <span class="self-center text-lg font-semibold whitespace-nowrap dark:text-white">Dimitar</span>
+            <img width="69" src="https://lobfile.com/file/s0A5m6zQ.png">
+            <span class="self-center text-lg font-semibold whitespace-nowrap dark:text-white">Evo RP</span>
         </a>
         <div class="flex items-center md:order-2">
             <div class="relative">
